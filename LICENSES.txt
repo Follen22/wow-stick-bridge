@@ -1,0 +1,26 @@
+WoW Stick Bridge - components and licenses
+==========================================
+
+1) WoW Stick Bridge (this utility: WoWStickBridge.exe, run*.cmd, README)
+   MIT License. Copyright (c) 2026.
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+2) ViGEmClient.dll (native client library, x64)
+   MIT License. Copyright (c) 2017-2023 Nefarius Software Solutions e.U.
+   See licenses\ViGEmClient-LICENSE.txt.
+
+3) ViGEmBus driver installer (bundled: vendor\ViGEmBus_1.22.0_x64_x86_arm64.exe)
+   BSD 3-Clause License. Copyright (c) 2016-2023 Nefarius Software Solutions e.U.
+   See licenses\ViGEmBus-LICENSE.txt.
+   Project: https://github.com/nefarius/ViGEmBus
+
+The installer only places these components on the PC; the ViGEmBus driver is
+installed by its own official installer (silent mode).

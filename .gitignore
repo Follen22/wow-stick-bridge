@@ -1,0 +1,14 @@
+bridge.log
+*.log
+*.tmp
+dist/output/
+dist/portable/
+github-staging/
+*.zip
+*.exe
+*.dll
+*.pdb
+*.user
+.vs/
+bin/
+obj/
